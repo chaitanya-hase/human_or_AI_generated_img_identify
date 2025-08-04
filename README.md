@@ -19,7 +19,7 @@ You can install these libraries using `pip`:
 pip install transformers torch Pillow
 
 ```
-Usage
+## Usage
 This script is designed to be run in an interactive environment like Google Colab or Jupyter, as it uses google.colab.files to handle image uploads.
 
 Run the script: Copy and paste the code into a Google Colab cell and run it.
